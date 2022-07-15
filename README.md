@@ -28,4 +28,4 @@ The name of your repository doesn't matter and can be public or private.
 
 Click on Begin Import. It will take a moment for the repository to be imported. Once it's done, click the link to your new repository.
 
-![Import Repository success screenshot where the new repository link is underlined and says "Import complete! Your new repository (link) is ready!"](images/03-imported.png)
+![Import Repository success screenshot where the new repository link is underlined and says "Importing complete! Your new repository (link) is ready."](images/03-imported.png)
