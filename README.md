@@ -54,3 +54,7 @@ Now, head back to the pipelines screen. Next, run the sample pipeline.
 
 ## Running the Sample Pipeline
 
+On the projects screen, you should see the failed pipeline from earlier. We can retry it now because the API keys have been added. Click the `Rerun workflow from start` button.
+![A screenshot of the pipelines screen showing a failed pipeline with its rerun from start button emphasized.](images/10-failed-pipeline.png)
+
+It will take a moment for something to start happening, but a new pipeline should appear in the list. Once it's finished, you should now be able to see the demo app appear in your Veracode dashboard.
